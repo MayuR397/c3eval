@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: yellow;
+    color: aliceblue;
+}
+.navbar a{
+    color: black;
+    border: 2px solid white;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px ;
+} 
+.navbar a:hover{
+    color: white;
+}
